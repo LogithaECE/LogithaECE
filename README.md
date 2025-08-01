@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logitha</h1>
-<h3 align="center">ECE'26 | Embedded & IoT Enthusiast | Full-Stack Developer | GATE 2025 Qualified</h3>
+<h3 align="center">ECE'26 | Embedded & IoT Enthusiast | Full-Stack Developer</h3>
 
 ---
 
@@ -46,11 +46,10 @@
 ---
 
 ### 🔭 What You'll Find in My Repos:
-- ✅ Embedded & IoT Projects (MSP430, sensor interfacing, signal processing)
-- ✅ Real-Time Embedded Applications with GSM/GPS, ADC, UART
-- ✅ Web Dashboards for IoT Devices (MERN, REST APIs)
-- ✅ Full-Stack E-Commerce Projects
-- ✅ Research & Academic Projects in Biomedical and Defense Electronics
+-  Embedded & IoT Projects
+-  Real-Time Embedded Applications with GSM/GPS, ADC, UART
+-  Web Dashboards for IoT Devices (MERN, REST APIs)
+-  Full-Stack E-Commerce Projects
 
 ---
 
